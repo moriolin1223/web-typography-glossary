@@ -86,12 +86,4 @@ Webタイポグラフィに関するキーワードを解説、同分野にお�
 ## 更新について
 毎月トピックブランチを作成し（例：feature/2019-01）、コントリビューターとして執筆者と編集者が更新を行います。月ごとを目安にマスターブランチ（master）へのマージを行い、正式なドキュメントとして公開していきます。
 
-## ライセンス
-[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-## クレジット
-執筆：[鈴木丈](https://github.com/terkel)  
-編集：[矢代真也](https://github.com/syyashiro)  
-協賛：[FONTPLUS](https://webfont.fontplus.jp)</a>  
-
 （[参考資料一覧](references.md)）
